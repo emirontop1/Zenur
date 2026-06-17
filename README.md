@@ -7,7 +7,7 @@ Bu proje modüler bir Roblox UI kütüphanesidir. `src/` klasöründeki bağıms
 Kütüphaneyi executor'ınızda çalıştırmak için aşağıdaki loadstring kodunu kullanabilirsiniz. Bu link her zaman otomatik güncellenir:
 
 ```lua
--- Son Otomatik Derleme: 2026-06-17 09:39:01
+-- Son Otomatik Derleme: 2026-06-17 09:53:02
 local WindUIModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/emirontop1/Zenur/main/dist/source.lua"))()
 
 -- Yeni Pencere Oluşturma
